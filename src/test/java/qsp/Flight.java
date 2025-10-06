@@ -3,7 +3,7 @@ package qsp;
 
 
 
-
+//encapsulation
 
 public class Flight{
 	void Fly() {
