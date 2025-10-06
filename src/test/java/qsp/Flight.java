@@ -3,7 +3,7 @@ package qsp;
 
 
 
-//polymorphism
+//encapsulation
 
 public class Flight{
 	void Fly() {
